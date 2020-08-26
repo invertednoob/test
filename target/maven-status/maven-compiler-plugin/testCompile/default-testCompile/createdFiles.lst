@@ -1,0 +1,4 @@
+org\shivam\game\models\TestCardDeck.class
+org\shivam\game\models\TestCard.class
+org\shivam\game\TestCardGame.class
+org\shivam\game\models\TestPlayersCardValue.class
